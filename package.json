@@ -1,0 +1,31 @@
+{
+  "name": "probax-scout-setup",
+  "version": "1.0.0",
+  "description": "Windows tool to setup Probax Scout",
+  "main": "main.js",
+  "author": "Probax",
+  "license": "ISC",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "probax.scout-installer",
+    "asar": false,
+    "win": {
+      "icon": "assets/icons/win/icon.ico",
+      "requestedExecutionLevel": "requireAdministrator",
+      "publisherName": "Probax"
+    },
+    "productName": "Probax Scout Installer"
+  },
+  "keywords": [],
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "electron-builder": "^22.9.1",
+    "electron": "^11.3.0"
+  }
+}

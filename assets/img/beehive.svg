@@ -1,0 +1,214 @@
+<svg id="beeHive-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+    <defs>
+        <style>
+            #beeHive-img .cls-1,#beeHive-img .cls-2{fill:#fff}
+            #beeHive-img .cls-2,#beeHive-img .cls-4{fill-rule:evenodd}
+            #beeHive-img .cls-3,#beeHive-img .cls-4{fill:#fcf96c}
+            
+            #beeHive-img .beeImg.beeImg-1{
+                -webkit-transform:scale(2) translate(-950px, 550px);
+                -ms-transform:scale(2) translate(-950px, 550px);
+                transform:scale(2) translate(-950px, 550px);
+                -webkit-transform-origin:1874px 70px;
+                -ms-transform-origin:1874px 70px;
+                transform-origin:1874px -830px;
+                -webkit-animation:bee1_keyframes 5s 3s ease-out infinite;
+                animation:bee1_keyframes 10s 3s ease-out infinite}
+            
+            @-webkit-keyframes bee1_keyframes{
+                90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}
+                100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-45deg);transform:scale(1) translate(0px, 0px) rotate(-45deg)}}
+            
+            @keyframes bee1_keyframes{
+                90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}
+                100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-45deg);transform:scale(1) translate(0px, 0px) rotate(-45deg)}
+            }
+
+            #beeHive-img .beeImg.beeImg-1-custom{
+                -webkit-transform:scale(2) translate(-950px, 550px);
+                -ms-transform:scale(2) translate(-950px, 550px);
+                -webkit-transform-origin:1874px 70px;
+                -ms-transform-origin:1874px 70px;
+                -webkit-animation:bee1_keyframes 145s 3s ease-out infinite;
+
+                animation:bee1_1_keyframes 7s cubic-bezier(0.41, 0.27, 0, 1.32) 2s infinite forwards;
+                transform-origin:1874px 70px;
+                transform:scale(1.5) translate(-800px, 50px) rotate(25deg);
+            }
+            
+            @-webkit-keyframes bee1_keyframes{
+                50%{
+                    transform:scale(1) translate(500px, 0px) rotate(-145deg)
+                }
+                90%{
+                    -webkit-transform:scale(1) translate(0px, 0px);
+                    transform:scale(1) translate(500px, 0px) rotate(-145deg)
+                }
+                100%{
+                    -webkit-transform:scale(1) translate(0px, 0px) rotate(-35deg);
+                    transform:scale(1) translate(500px, 0px) rotate(-35deg)
+                }
+            }
+            
+            @keyframes bee1_1_keyframes{
+                100%{
+                    -webkit-transform:scale(1) translate(0px, 0px) rotate(-25deg);
+                    transform: scale(1) translate(0px, 0px) rotate(60deg);
+
+                }
+            }
+            
+            #beeHive-img .beeImg.beeImg-2{-webkit-transform:translate(-2000px, 800px);-ms-transform:translate(-2000px, 800px);transform:translate(-2000px, 800px);-webkit-transform-origin:1792px 216px;-ms-transform-origin:1792px 216px;transform-origin:1792px 216px;-webkit-animation:bee2_keyframes 4.5s 3.5s ease-out forwards;animation:bee2_keyframes 4.5s 3.5s ease-out forwards}@-webkit-keyframes bee2_keyframes{80%{-webkit-transform:translate(0px, 0px);transform:translate(0px, 0px)}100%{-webkit-transform:translate(0px, 0px) rotate(-90deg);transform:translate(0px, 0px) rotate(-90deg)}}@keyframes bee2_keyframes{80%{-webkit-transform:translate(0px, 0px);transform:translate(0px, 0px)}100%{-webkit-transform:translate(0px, 0px) rotate(-90deg);transform:translate(0px, 0px) rotate(-90deg)}}#beeHive-img .beeImg.beeImg-3{-webkit-transform:scale(2.4) translate(-750px, 335px);-ms-transform:scale(2.4) translate(-750px, 335px);transform:scale(2.4) translate(-750px, 335px);-webkit-transform-origin:1669px 289px;-ms-transform-origin:1669px 289px;transform-origin:1669px 289px;-webkit-animation:bee3_keyframes 6s 2s ease-out forwards;animation:bee3_keyframes 6s 2s ease-out forwards}@-webkit-keyframes bee3_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee3_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}#beeHive-img .beeImg.beeImg-4{-webkit-transform:scale(1.5) translate(-1065px, 465px);-ms-transform:scale(1.5) translate(-1065px, 465px);transform:scale(1.5) translate(-1065px, 465px);-webkit-transform-origin:1545px 505px;-ms-transform-origin:1545px 505px;transform-origin:1545px 505px;-webkit-animation:bee4_keyframes 6s 2.5s ease-out forwards;animation:bee4_keyframes 6s 2.5s ease-out forwards}@-webkit-keyframes bee4_keyframes{80%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-90deg);transform:scale(1) translate(0px, 0px) rotate(-90deg)}}@keyframes bee4_keyframes{80%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-90deg);transform:scale(1) translate(0px, 0px) rotate(-90deg)}}#beeHive-img .beeImg.beeImg-5{-webkit-transform:scale(2) translate(-650px, 450px);-ms-transform:scale(2) translate(-650px, 450px);transform:scale(2) translate(-650px, 450px);-webkit-transform-origin:1378px 360px;-ms-transform-origin:1378px 360px;transform-origin:1378px 360px;-webkit-animation:bee5_keyframes 4s 4s ease-out forwards;animation:bee5_keyframes 4s 4s ease-out forwards}@-webkit-keyframes bee5_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee5_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}#beeHive-img .beeImg.beeImg-6{-webkit-transform:scale(2) translate(-650px, 500px);-ms-transform:scale(2) translate(-650px, 500px);transform:scale(2) translate(-650px, 500px);-webkit-transform-origin:1377px 215px;-ms-transform-origin:1377px 215px;transform-origin:1377px 215px;-webkit-animation:bee6_keyframes 6s 0.5s ease-out forwards;animation:bee6_keyframes 6s 0.5s ease-out forwards}@-webkit-keyframes bee6_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee6_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}#beeHive-img .beeImg.beeImg-7{-webkit-transform:scale(2) translate(-625px, 450px);-ms-transform:scale(2) translate(-625px, 450px);transform:scale(2) translate(-625px, 450px);-webkit-transform-origin:1127px 73px;-ms-transform-origin:1127px 73px;transform-origin:1127px 73px;-webkit-animation:bee7_keyframes 3s 2s ease-out forwards;animation:bee7_keyframes 3s 2s ease-out forwards}@-webkit-keyframes bee7_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee7_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}#beeHive-img .beeImg.beeImg-8{-webkit-transform:scale(1.5) translate(-1200px, 465px);-ms-transform:scale(1.5) translate(-1200px, 465px);transform:scale(1.5) translate(-1200px, 465px);-webkit-transform-origin:1710px 73px;-ms-transform-origin:1710px 73px;transform-origin:1710px 73px;-webkit-animation:bee8_keyframes 5s 1s ease-out forwards;animation:bee8_keyframes 5s 1s ease-out forwards}@-webkit-keyframes bee8_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee8_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}#beeHive-img .beeImg.beeImg-9{-webkit-transform:translate(-1700px, 700px);-ms-transform:translate(-1700px, 700px);transform:translate(-1700px, 700px);-webkit-transform-origin:1544px 360px;-ms-transform-origin:1544px 360px;transform-origin:1544px 360px;-webkit-animation:bee9_keyframes 5s 3s ease-out forwards;animation:bee9_keyframes 5s 3s ease-out forwards}@-webkit-keyframes bee9_keyframes{90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-90deg);transform:scale(1) translate(0px, 0px) rotate(-90deg)}}@keyframes bee9_keyframes{90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-90deg);transform:scale(1) translate(0px, 0px) rotate(-90deg)}}#beeHive-img .beeImg.beeImg-10{-webkit-transform:scale(2.4) translate(-710px, 415px);-ms-transform:scale(2.4) translate(-710px, 415px);transform:scale(2.4) translate(-710px, 415px);-webkit-transform-origin:1501px 144px;-ms-transform-origin:1501px 144px;transform-origin:1501px 144px;-webkit-animation:bee10_keyframes 6s 4s ease-out forwards;animation:bee10_keyframes 6s 4s ease-out forwards}@-webkit-keyframes bee10_keyframes{90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-45deg);transform:scale(1) translate(0px, 0px) rotate(-45deg)}}@keyframes bee10_keyframes{90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-45deg);transform:scale(1) translate(0px, 0px) rotate(-45deg)}}#beeHive-img .beeImg.beeImg-11{-webkit-transform:translate(-1200px, 1100px);-ms-transform:translate(-1200px, 1100px);transform:translate(-1200px, 1100px);-webkit-transform-origin:1293px 72px;-ms-transform-origin:1293px 72px;transform-origin:1293px 72px;-webkit-animation:bee11_keyframes 6s 0.5s ease-out forwards;animation:bee11_keyframes 6s 0.5s ease-out forwards}@-webkit-keyframes bee11_keyframes{90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-90deg);transform:scale(1) translate(0px, 0px) rotate(-90deg)}}@keyframes bee11_keyframes{90%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-90deg);transform:scale(1) translate(0px, 0px) rotate(-90deg)}}
+            
+            #beeHive-img .beeImg.beeImg-12{-webkit-transform:scale(1.5) translate(-600px, 600px);-ms-transform:scale(1.5) translate(-600px, 600px);transform:scale(1.5) translate(-600px, 600px);
+            
+            -webkit-transform-origin:1128px 359px;-ms-transform-origin:1128px 359px;transform-origin:1128px 359px;-webkit-animation:bee12_keyframes 3s 2s ease-out forwards;animation:bee12_keyframes 3s 2s ease-out forwards}
+            
+            @-webkit-keyframes bee12_keyframes{80%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-45deg);transform:scale(1) translate(0px, 0px) rotate(-45deg)}}
+            
+            @keyframes bee12_keyframes{
+                80%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(200px, 0px)}
+                100%{-webkit-transform:scale(1) translate(0px, 0px) rotate(-45deg);transform:scale(1) translate(300px, 0px) rotate(-45deg)}
+            }
+            
+            #beeHive-img .beeImg.beeImg-13{-webkit-transform:translate(-1200px, 800px);-ms-transform:translate(-1200px, 800px);transform:translate(-1200px, 800px);-webkit-transform-origin:1336px 432px;-ms-transform-origin:1336px 432px;transform-origin:1336px 432px;-webkit-animation:bee13_keyframes 3s 1s ease-out forwards;animation:bee13_keyframes 3s 1s ease-out forwards}@-webkit-keyframes bee13_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee13_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}#beeHive-img .beeImg.beeImg-14{-webkit-transform:scale(2) translate(-1000px, 250px);-ms-transform:scale(2) translate(-1000px, 250px);transform:scale(2) translate(-1000px, 250px);-webkit-transform-origin:1833px 432px;-ms-transform-origin:1833px 432px;transform-origin:1833px 432px;-webkit-animation:bee14_keyframes 4s 1.5s ease-out forwards;animation:bee14_keyframes 4s 1.5s ease-out forwards}@-webkit-keyframes bee14_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee14_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}#beeHive-img .beeImg.beeImg-15{-webkit-transform:scale(2) translate(-900px, 150px);-ms-transform:scale(2) translate(-900px, 150px);transform:scale(2) translate(-900px, 150px);-webkit-transform-origin:1628px 647px;-ms-transform-origin:1628px 647px;transform-origin:1628px 647px;-webkit-animation:bee15_keyframes 6s 1s ease-out forwards;animation:bee15_keyframes 6s 1s ease-out forwards}@-webkit-keyframes bee15_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}@keyframes bee15_keyframes{100%{-webkit-transform:scale(1) translate(0px, 0px);transform:scale(1) translate(0px, 0px)}}
+        </style>
+    </defs>
+	<image width="1920" height="1080" xlink:href="hive-bg.jpg"/>
+    <g class="beeImg beeImg-1">
+        <path class="cls-1" d="M1899.25 89.37l-3.6-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.9-17.5a.43.43 0 00-.25-.23l-10.63-3.61a.43.43 0 00-.55.38l-.27 9a.43.43 0 00.12.31l.07.06 1.68 1.05-.88 6a.41.41 0 00.11.35l3.93 4a.45.45 0 00.27.12l13.77.62.62 13.77a.45.45 0 00.12.27l4 3.93a.41.41 0 00.35.11l6-.88 1 1.68.06.07a.43.43 0 00.31.12l9-.27a.41.41 0 00.32-.18.38.38 0 00.08-.39zm-39.85-39.16l9.84 3.45 6.18 14.18a.41.41 0 01-.6.51l-15.6-10zm4.6 19.29l-3.69-3.69.55-4.59a.42.42 0 01.63-.3l13.4 8.47a.41.41 0 01-.24.76zm18.69 18.69L1879 84.5l-.65-10.65a.41.41 0 01.76-.24l8.47 13.4a.42.42 0 01-.3.63zm7.42 1.1l-10-15.6a.42.42 0 01.52-.6l14.16 6.16 3.47 9.86z"/>
+        <g>
+            <path class="cls-1" d="M1870.12 88l.43-.45L1873 85a.51.51 0 00.14-.26l2.57-11.35a.56.56 0 00-.64-.64l-11.36 2.57a.6.6 0 00-.25.13L1861 77.9l-.45.43-2.91 2.84a.56.56 0 00-.16.43l.7 8.23a.42.42 0 000 .12.13.13 0 010 .06.91.91 0 00.11.16.65.65 0 00.15.1h.18l8.24.7a.58.58 0 00.43-.16zm3.74-13.85a.41.41 0 01.49.49l-.94 4.2-1.12 4.51a.42.42 0 01-.69.19l-6.6-6.68a.41.41 0 01.19-.69l4.51-1.12zm-14.32 6.75l.74-.72a.82.82 0 011.15 0l6.89 6.9a.81.81 0 010 1.15l-.72.74a.82.82 0 01-1.17 0l-6.9-6.97a.82.82 0 01.01-1.15zm5 8.75l-5-.3a.41.41 0 01-.38-.38l-.26-5a.41.41 0 01.7-.31l5.3 5.31a.4.4 0 01-.31.63zm-2.35-11.46l.69-.67a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.67.68a.82.82 0 01-1.17 0l-6.91-6.91a.82.82 0 01.06-1.2z"/>
+        <path class="cls-2" d="M1875.77 82.05l-.91 7.39-7.37 4.79 8.61-3.15-.33-9.03zM1866.46 72.74l-7.4.91-4.78 7.37 3.14-8.61 9.04.33z"/>
+        </g>
+        <g>
+            <path class="cls-2" d="M1882.54 70.93l6.99.92 3.9-4.75-2.93 6.73-7.96-2.9zM1877.58 65.97l-.93-6.99 4.76-3.9-6.73 2.93 2.9 7.96z"/>
+            <path class="cls-1" d="M1885 60.75h2.75v7.72H1880v-2.75a5 5 0 015-5z" transform="rotate(90 1883.9 64.61)"/>
+            <path class="cls-2" d="M1882.07 60.79l2.22-9.75-.61 9.82-1.61-.07zM1887.72 66.44l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-1-custom">
+        <path class="cls-1" d="M1899.25 89.37l-3.6-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.9-17.5a.43.43 0 00-.25-.23l-10.63-3.61a.43.43 0 00-.55.38l-.27 9a.43.43 0 00.12.31l.07.06 1.68 1.05-.88 6a.41.41 0 00.11.35l3.93 4a.45.45 0 00.27.12l13.77.62.62 13.77a.45.45 0 00.12.27l4 3.93a.41.41 0 00.35.11l6-.88 1 1.68.06.07a.43.43 0 00.31.12l9-.27a.41.41 0 00.32-.18.38.38 0 00.08-.39zm-39.85-39.16l9.84 3.45 6.18 14.18a.41.41 0 01-.6.51l-15.6-10zm4.6 19.29l-3.69-3.69.55-4.59a.42.42 0 01.63-.3l13.4 8.47a.41.41 0 01-.24.76zm18.69 18.69L1879 84.5l-.65-10.65a.41.41 0 01.76-.24l8.47 13.4a.42.42 0 01-.3.63zm7.42 1.1l-10-15.6a.42.42 0 01.52-.6l14.16 6.16 3.47 9.86z"/>
+        <g>
+            <path class="cls-1" d="M1870.12 88l.43-.45L1873 85a.51.51 0 00.14-.26l2.57-11.35a.56.56 0 00-.64-.64l-11.36 2.57a.6.6 0 00-.25.13L1861 77.9l-.45.43-2.91 2.84a.56.56 0 00-.16.43l.7 8.23a.42.42 0 000 .12.13.13 0 010 .06.91.91 0 00.11.16.65.65 0 00.15.1h.18l8.24.7a.58.58 0 00.43-.16zm3.74-13.85a.41.41 0 01.49.49l-.94 4.2-1.12 4.51a.42.42 0 01-.69.19l-6.6-6.68a.41.41 0 01.19-.69l4.51-1.12zm-14.32 6.75l.74-.72a.82.82 0 011.15 0l6.89 6.9a.81.81 0 010 1.15l-.72.74a.82.82 0 01-1.17 0l-6.9-6.97a.82.82 0 01.01-1.15zm5 8.75l-5-.3a.41.41 0 01-.38-.38l-.26-5a.41.41 0 01.7-.31l5.3 5.31a.4.4 0 01-.31.63zm-2.35-11.46l.69-.67a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.67.68a.82.82 0 01-1.17 0l-6.91-6.91a.82.82 0 01.06-1.2z"/>
+        <path class="cls-2" d="M1875.77 82.05l-.91 7.39-7.37 4.79 8.61-3.15-.33-9.03zM1866.46 72.74l-7.4.91-4.78 7.37 3.14-8.61 9.04.33z"/>
+        </g>
+        <g>
+            <path class="cls-2" d="M1882.54 70.93l6.99.92 3.9-4.75-2.93 6.73-7.96-2.9zM1877.58 65.97l-.93-6.99 4.76-3.9-6.73 2.93 2.9 7.96z"/>
+            <path class="cls-1" d="M1885 60.75h2.75v7.72H1880v-2.75a5 5 0 015-5z" transform="rotate(90 1883.9 64.61)"/>
+            <path class="cls-2" d="M1882.07 60.79l2.22-9.75-.61 9.82-1.61-.07zM1887.72 66.44l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-2">
+        <path class="cls-1" d="M1817.87 232.7l-3.61-10.64a.38.38 0 00-.22-.24l-17.51-7.91-7.9-17.49a.39.39 0 00-.24-.23l-10.64-3.61a.41.41 0 00-.54.38l-.27 9a.42.42 0 00.12.3l.07.06 1.68 1.06-.88 6a.42.42 0 00.11.35l3.92 4a.36.36 0 00.27.12l13.77.62.62 13.77a.38.38 0 00.12.28l4 3.92a.42.42 0 00.35.11l6-.88 1.06 1.68.06.07a.39.39 0 00.3.12l9-.27a.4.4 0 00.33-.18.42.42 0 00.03-.39zM1778 193.54l9.83 3.44 6.18 14.19a.41.41 0 01-.59.51l-15.6-10zm4.6 19.28l-3.69-3.69.56-4.59a.41.41 0 01.63-.29l13.4 8.46a.41.41 0 01-.25.76zm18.7 18.7l-3.69-3.69-.65-10.65a.41.41 0 01.76-.25l8.47 13.4a.41.41 0 01-.3.63zm7.41 1.09l-10-15.6a.41.41 0 01.51-.59l14.17 6.16 3.46 9.85z"/>
+        <g>
+        <path class="cls-1" d="M1788.74 231.27l.43-.45 2.46-2.52a.52.52 0 00.14-.25l2.56-11.35a.55.55 0 00-.64-.64l-11.35 2.56a.48.48 0 00-.25.14l-2.53 2.46-.44.43-2.91 2.84a.53.53 0 00-.16.43l.69 8.23a.56.56 0 000 .12.13.13 0 000 .06.53.53 0 00.11.15.58.58 0 00.15.11h.18l8.23.69a.53.53 0 00.43-.16zm3.74-13.84a.41.41 0 01.49.49l-1 4.19-1.12 4.51a.4.4 0 01-.68.19l-6.63-6.63a.4.4 0 01.19-.68l4.51-1.12zm-14.33 6.74l.74-.72a.83.83 0 011.16 0l6.89 6.89a.83.83 0 010 1.16l-.72.74a.82.82 0 01-1.17 0l-6.92-6.92a.82.82 0 01.02-1.15zm5.06 8.75l-5-.29a.4.4 0 01-.38-.39l-.26-5a.41.41 0 01.7-.31l5.3 5.3a.41.41 0 01-.36.69zm-2.35-11.46l.68-.66a.83.83 0 011.16 0l6.89 6.9a.81.81 0 010 1.15l-.66.69a.82.82 0 01-1.17 0l-6.92-6.92a.82.82 0 01.02-1.16z"/>
+        <path class="cls-2" d="M1794.39 225.38l-.91 7.39-7.37 4.79 8.61-3.15-.33-9.03zM1785.08 216.06l-7.4.91-4.79 7.37 3.15-8.61 9.04.33z"/>
+        </g>
+        <g>
+        <path class="cls-2" d="M1801.15 214.26l6.99.92 3.91-4.76-2.93 6.73-7.97-2.89zM1796.19 209.3l-.92-6.99 4.76-3.91-6.73 2.93 2.89 7.97z"/>
+        <path class="cls-1" d="M1803.62 204.08h2.75v7.72h-7.72V209a5 5 0 014.97-4.92z" transform="rotate(90 1802.515 207.935)"/>
+        <path class="cls-2" d="M1800.69 204.11l2.21-9.75-.6 9.82-1.61-.07zM1806.34 209.76l9.75-2.21-9.82.6.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-3">
+        <path class="cls-1" d="M1694.11 305.1l-3.6-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.9-17.5a.43.43 0 00-.25-.23L1654 265a.43.43 0 00-.55.38l-.27 9a.43.43 0 00.12.31l.07.05 1.68 1.06-.88 6a.41.41 0 00.11.35l3.93 4a.45.45 0 00.27.12l13.77.62.62 13.77a.4.4 0 00.12.27l4 3.92a.38.38 0 00.35.12l6-.88 1 1.67.06.08a.47.47 0 00.3.12l9-.28a.37.37 0 00.32-.17.38.38 0 00.09-.41zm-39.85-39.16l9.84 3.45 6.18 14.18a.41.41 0 01-.6.51l-15.6-10zm4.61 19.28l-3.69-3.69.55-4.58a.41.41 0 01.63-.3l13.4 8.47a.41.41 0 01-.24.75zm18.69 18.7l-3.69-3.69-.65-10.65a.41.41 0 01.76-.24l8.47 13.4a.42.42 0 01-.3.63zM1685 305l-10-15.6a.41.41 0 01.51-.6l14.17 6.16 3.47 9.86z"/>
+        <g>
+        <path class="cls-1" d="M1665 303.68l.43-.44 2.46-2.52a.51.51 0 00.14-.26l2.57-11.35a.56.56 0 00-.64-.64l-11.37 2.53a.62.62 0 00-.25.14l-2.52 2.46-.45.44-2.91 2.84a.56.56 0 00-.16.43l.7 8.23a.53.53 0 000 .12v.06a.58.58 0 00.11.15.53.53 0 00.15.11h.18l8.24.69a.5.5 0 00.42-.15zm3.74-13.85a.41.41 0 01.49.49l-.94 4.19-1.12 4.51a.41.41 0 01-.69.19l-6.63-6.62a.41.41 0 01.19-.69l4.51-1.12zm-14.33 6.74l.74-.72a.83.83 0 011.16 0l6.89 6.9a.81.81 0 010 1.15l-.72.74a.82.82 0 01-1.17 0l-6.91-6.91a.84.84 0 01-.01-1.16zm5.06 8.76l-5-.3a.41.41 0 01-.38-.38l-.26-5a.41.41 0 01.7-.31l5.3 5.3a.41.41 0 01-.38.69zm-2.35-11.46l.69-.67a.82.82 0 011.15 0l6.9 6.9a.83.83 0 010 1.15l-.67.68a.82.82 0 01-1.17 0l-6.92-6.93a.81.81 0 010-1.13z"/>
+        <path class="cls-2" d="M1670.63 297.78l-.91 7.39-7.37 4.79 8.61-3.15-.33-9.03zM1661.32 288.46l-7.4.92-4.78 7.37 3.14-8.61 9.04.32z"/>
+        </g>
+        <g>
+        <path class="cls-2" d="M1677.4 286.66l6.99.92 3.9-4.75-2.93 6.72-7.96-2.89zM1672.44 281.7l-.93-6.99 4.76-3.9-6.73 2.92 2.9 7.97z"/>
+        <path class="cls-1" d="M1679.87 276.48h2.75v7.72h-7.72v-2.75a5 5 0 014.97-4.97z" transform="rotate(90 1678.76 280.34)"/>
+        <path class="cls-2" d="M1676.93 276.51l2.22-9.74-.61 9.82-1.61-.08zM1682.58 282.17l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-4">
+        <path class="cls-1" d="M1569.67 521.9l-3.6-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.91-17.5a.39.39 0 00-.24-.23l-10.63-3.61a.43.43 0 00-.55.38l-.27 9a.43.43 0 00.12.31l.07.05 1.68 1.06-.88 6a.41.41 0 00.11.35l3.93 4a.45.45 0 00.27.12l13.77.62.62 13.77a.4.4 0 00.12.27l4 3.92a.38.38 0 00.35.12l6-.88 1.05 1.67.06.08a.47.47 0 00.3.12l9-.28a.37.37 0 00.32-.17.38.38 0 00.04-.39zm-39.85-39.16l9.84 3.45 6.18 14.18a.41.41 0 01-.6.51l-15.6-10zm4.61 19.28l-3.69-3.69.55-4.58a.41.41 0 01.63-.3l13.4 8.47a.41.41 0 01-.24.75zm18.69 18.7l-3.69-3.69-.65-10.65a.41.41 0 01.76-.24l8.47 13.4a.42.42 0 01-.3.63zm7.41 1.1l-10-15.6a.41.41 0 01.51-.6l14.17 6.16 3.47 9.86z"/>
+        <g>
+        <path class="cls-1" d="M1540.54 520.48l.43-.44 2.46-2.52a.51.51 0 00.14-.26l2.57-11.35a.56.56 0 00-.64-.64l-11.36 2.56a.62.62 0 00-.25.14l-2.52 2.46-.45.44-2.92 2.83a.56.56 0 00-.16.43l.7 8.23a.27.27 0 000 .12v.06a.58.58 0 00.11.15.53.53 0 00.15.11h.18l8.24.69a.5.5 0 00.42-.15zm3.74-13.85a.41.41 0 01.49.49l-.94 4.19-1.12 4.51a.41.41 0 01-.69.19l-6.63-6.62a.41.41 0 01.19-.69l4.51-1.12zm-14.28 6.74l.74-.72a.83.83 0 011.16 0l6.89 6.9a.81.81 0 010 1.15l-.72.74a.82.82 0 01-1.17 0l-6.91-6.91a.84.84 0 01.01-1.16zm5.06 8.76l-5-.3a.4.4 0 01-.38-.38l-.26-5a.41.41 0 01.7-.31l5.3 5.3a.41.41 0 01-.42.69zm-2.35-11.46l.69-.67a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.66.68a.82.82 0 01-1.17 0l-6.91-6.92a.81.81 0 01-.05-1.14z"/>
+        <path class="cls-2" d="M1546.19 514.58l-.91 7.39-7.37 4.79 8.61-3.15-.33-9.03zM1536.88 505.26l-7.4.92-4.79 7.37 3.15-8.61 9.04.32z"/>
+        </g>
+        <g>
+        <path class="cls-2" d="M1552.96 503.46l6.98.92 3.91-4.75-2.93 6.72-7.96-2.89zM1547.99 498.5l-.92-6.99 4.76-3.9-6.73 2.92 2.89 7.97z"/>
+        <path class="cls-1" d="M1555.42 493.28h2.75V501h-7.72v-2.75a5 5 0 014.97-4.97z" transform="rotate(90 1554.32 497.14)"/>
+        <path class="cls-2" d="M1552.49 493.31l2.21-9.74-.6 9.82-1.61-.08zM1558.14 498.97l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+
+    <g class="beeImg beeImg-7">
+        <path class="cls-1" d="M1151 89.68l-3.61-10.63a.38.38 0 00-.23-.25l-17.5-7.91-7.9-17.49a.43.43 0 00-.25-.23l-10.63-3.61a.44.44 0 00-.37 0 .44.44 0 00-.18.33l-.27 9a.42.42 0 00.12.3l.07.06 1.75 1.15-.88 6a.42.42 0 00.11.35l3.93 4a.36.36 0 00.27.12l13.77.62.62 13.77a.47.47 0 00.12.28l4 3.92a.44.44 0 00.35.12l6-.89 1.06 1.68a.18.18 0 000 .07.39.39 0 00.31.12l9-.27a.38.38 0 00.34-.29.39.39 0 000-.32zm-39.86-39.16L1121 54l6.18 14.19a.41.41 0 01-.6.51l-15.6-10zm4.61 19.28l-3.69-3.69.55-4.59a.41.41 0 01.63-.29l13.4 8.46a.41.41 0 01-.24.76zm18.69 18.7l-3.69-3.69-.64-10.65a.41.41 0 01.75-.25l8.47 13.4a.41.41 0 01-.3.63zm7.42 1.09l-10-15.6a.41.41 0 01.51-.59l14.16 6.16 3.47 9.85z"/>
+        <g>
+        <path class="cls-1" d="M1121.89 88.25l.43-.44 2.46-2.53a.52.52 0 00.14-.25l2.57-11.35a.56.56 0 00-.64-.64l-11.35 2.56a.51.51 0 00-.26.14l-2.52 2.46-.45.43-2.91 2.84a.56.56 0 00-.16.43l.7 8.23a.53.53 0 000 .12v.06a.49.49 0 00.1.15.57.57 0 00.16.11h.13l8.23.69a.54.54 0 00.43-.16zm3.73-13.84a.41.41 0 01.49.49l-.94 4.19-1.12 4.51a.41.41 0 01-.69.19l-6.63-6.63a.4.4 0 01.19-.68l4.51-1.12zm-14.32 6.74l.74-.72a.82.82 0 011.15 0l6.9 6.89a.83.83 0 010 1.16l-.72.74a.82.82 0 01-1.17 0l-6.91-6.92a.82.82 0 01.01-1.15zm5 8.75l-5-.29a.41.41 0 01-.38-.39l-.26-5a.41.41 0 01.7-.31l5.3 5.3a.4.4 0 01-.31.69zm-2.3-11.46l.69-.66a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.67.69a.82.82 0 01-1.17 0l-6.9-6.91a.82.82 0 010-1.17z"/>
+        <path class="cls-2" d="M1127.53 82.36l-.91 7.39-7.37 4.79 8.61-3.15-.33-9.03zM1118.22 73.04l-7.4.91-4.78 7.37 3.14-8.61 9.04.33z"/>
+        </g>
+        <g>
+        <path class="cls-2" d="M1134.3 71.24l6.99.92 3.9-4.76-2.93 6.73-7.96-2.89zM1129.34 66.28l-.93-6.99 4.76-3.91-6.73 2.93 2.9 7.97z"/>
+        <path class="cls-1" d="M1136.77 61.06h2.75v7.72h-7.72V66a5 5 0 014.97-4.94z" transform="rotate(90 1135.655 64.915)"/>
+        <path class="cls-2" d="M1133.83 61.09l2.22-9.75-.61 9.82-1.61-.07zM1139.48 66.74l9.75-2.21-9.82.6.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-8">
+        <path class="cls-3" d="M1734.71 89.37l-3.61-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.9-17.5a.43.43 0 00-.25-.23l-10.63-3.61a.43.43 0 00-.55.38l-.27 9a.43.43 0 00.12.31l.08.06 1.67 1.05-.88 6a.41.41 0 00.11.35l3.93 4a.45.45 0 00.27.12l13.77.62.62 13.77a.45.45 0 00.12.27l4 3.93a.41.41 0 00.35.11l6-.88 1.06 1.68v.07a.43.43 0 00.31.12l9-.27a.43.43 0 00.38-.55zm-39.86-39.16l9.84 3.45 6.18 14.18a.41.41 0 01-.6.51l-15.6-10zm4.61 19.29l-3.69-3.69.55-4.59a.42.42 0 01.63-.3l13.4 8.47a.41.41 0 01-.24.76zm18.69 18.69l-3.69-3.69-.64-10.65a.41.41 0 01.75-.24L1723 87a.42.42 0 01-.3.63zm7.42 1.1l-10-15.6a.41.41 0 01.51-.6l14.16 6.16 3.47 9.86z"/>
+        <g>
+        <path class="cls-3" d="M1705.58 88l.43-.45 2.47-2.52a.58.58 0 00.13-.26l2.57-11.35a.56.56 0 00-.64-.64l-11.35 2.57a.58.58 0 00-.26.13l-2.52 2.47-.45.43-2.91 2.84a.56.56 0 00-.16.43l.7 8.23a.42.42 0 000 .12v.06a.42.42 0 00.26.26.5.5 0 00.13 0l8.23.7a.58.58 0 00.43-.16zm3.73-13.85a.41.41 0 01.49.49l-.94 4.2-1.12 4.51a.42.42 0 01-.69.19l-6.63-6.63a.41.41 0 01.19-.69l4.51-1.12zm-14.31 6.7l.74-.72a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.72.74a.82.82 0 01-1.17 0L1695 82a.82.82 0 010-1.15zm5 8.75l-5-.3a.41.41 0 01-.38-.38l-.26-5a.41.41 0 01.7-.31l5.3 5.31a.4.4 0 01-.36.68zm-2.34-11.46l.68-.67a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.67.68a.82.82 0 01-1.17 0l-6.91-6.91a.82.82 0 01.06-1.15z"/>
+        <path class="cls-4" d="M1711.22 82.05l-.91 7.39-7.37 4.79 8.61-3.15-.33-9.03zM1701.91 72.74l-7.39.91-4.79 7.37 3.15-8.61 9.03.33z"/>
+        </g>
+        <g>
+        <path class="cls-4" d="M1717.99 70.93l6.99.92 3.9-4.75-2.93 6.73-7.96-2.9zM1713.03 65.97l-.92-6.99 4.75-3.9-6.73 2.93 2.9 7.96z"/>
+        <path class="cls-3" d="M1720.46 60.75h2.75v7.72h-7.72v-2.75a5 5 0 014.97-4.97z" transform="rotate(90 1719.35 64.61)"/>
+        <path class="cls-4" d="M1717.52 60.79l2.22-9.75-.61 9.82-1.61-.07zM1723.17 66.44l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-9">
+        <path class="cls-3" d="M1567.65 377.38l-3.65-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.9-17.5a.39.39 0 00-.24-.23l-10.64-3.6a.36.36 0 00-.36.05.38.38 0 00-.18.32l-.27 9a.39.39 0 00.12.31l.07.06 1.68 1.05-.89 6a.44.44 0 00.12.35l3.92 4a.47.47 0 00.28.12l13.77.62.62 13.77a.36.36 0 00.12.27l4 3.93a.42.42 0 00.35.11l6-.88 1.06 1.68.06.07a.42.42 0 00.3.12l9-.27a.43.43 0 00.33-.18.44.44 0 00.06-.39zm-39.85-39.16l9.83 3.45 6.18 14.18a.41.41 0 01-.59.51l-15.6-10zm4.6 19.29l-3.69-3.69.56-4.59a.41.41 0 01.63-.3l13.4 8.47a.41.41 0 01-.25.76zm18.7 18.69l-3.69-3.69-.65-10.65a.41.41 0 01.76-.24L1556 375a.41.41 0 01-.29.63zm7.41 1.1l-10-15.6a.41.41 0 01.51-.6l14.17 6.16 3.46 9.86z"/>
+        <g>
+        <path class="cls-3" d="M1538.52 376l.43-.45 2.46-2.52a.51.51 0 00.14-.26l2.56-11.35a.56.56 0 00-.64-.64l-11.35 2.57a.64.64 0 00-.26.13l-2.52 2.47-.44.43-2.91 2.84a.53.53 0 00-.16.43l.69 8.23a.42.42 0 000 .12.13.13 0 000 .06.57.57 0 00.11.16.4.4 0 00.15.1h.18l8.23.7a.56.56 0 00.43-.16zm3.74-13.85a.41.41 0 01.49.49l-1 4.2-1.12 4.51a.41.41 0 01-.68.19l-6.63-6.63a.41.41 0 01.19-.69l4.51-1.12zm-14.33 6.75l.74-.72a.83.83 0 011.16 0l6.89 6.9a.82.82 0 010 1.15l-.72.74a.82.82 0 01-1.17 0l-6.92-6.91a.82.82 0 01.02-1.2zm5 8.75l-5-.3a.4.4 0 01-.38-.38l-.26-5a.41.41 0 01.69-.31l5.31 5.31a.41.41 0 01-.29.64zm-2.34-11.46l.68-.67a.83.83 0 011.16 0l6.89 6.9a.81.81 0 010 1.15l-.66.68a.82.82 0 01-1.17 0l-6.92-6.91a.82.82 0 01.07-1.19z"/>
+        <path class="cls-4" d="M1544.17 370.06l-.91 7.39-7.37 4.79 8.61-3.14-.33-9.04zM1534.85 360.75l-7.39.91-4.79 7.37 3.15-8.61 9.03.33z"/>
+        </g>
+        <g>
+        <path class="cls-4" d="M1550.93 358.94l6.99.92 3.91-4.75-2.93 6.72-7.97-2.89zM1545.97 353.98l-.92-6.99 4.76-3.9-6.73 2.93 2.89 7.96z"/>
+        <path class="cls-3" d="M1553.4 348.76h2.75v7.72h-7.72v-2.75a5 5 0 014.97-4.97z" transform="rotate(90 1552.29 352.62)"/>
+        <path class="cls-4" d="M1550.47 348.8l2.21-9.75-.6 9.82-1.61-.07zM1556.12 354.45l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-10">
+        <path class="cls-3" d="M1525.35 162.63l-3.61-10.63a.39.39 0 00-.23-.24l-17.5-7.91-7.9-17.5a.39.39 0 00-.24-.23l-10.64-3.6a.36.36 0 00-.36 0 .38.38 0 00-.18.32l-.27 9a.39.39 0 00.12.3l.07.06 1.68 1-.89 6a.44.44 0 00.12.35l3.92 4a.42.42 0 00.28.12l13.77.62.62 13.77a.36.36 0 00.12.27l4 3.93a.42.42 0 00.35.11l6-.88 1.06 1.68.06.07a.42.42 0 00.3.12l9-.27a.43.43 0 00.33-.18.44.44 0 00.02-.28zm-39.85-39.16l9.83 3.45 6.18 14.18a.41.41 0 01-.59.52l-15.6-10zm4.6 19.29l-3.69-3.69.56-4.59a.41.41 0 01.63-.3l13.4 8.47a.41.41 0 01-.25.76zm18.7 18.69l-3.69-3.69-.65-10.65a.41.41 0 01.76-.24l8.46 13.4a.41.41 0 01-.29.63zm7.41 1.1l-10-15.6a.41.41 0 01.51-.6l14.17 6.17 3.46 9.85z"/>
+        <g>
+        <path class="cls-3" d="M1496.22 161.21l.43-.45 2.46-2.52a.51.51 0 00.14-.26l2.56-11.35a.56.56 0 00-.64-.64l-11.35 2.57a.55.55 0 00-.26.14l-2.52 2.46-.44.43-2.91 2.84a.54.54 0 00-.16.43l.69 8.23a.5.5 0 000 .13.11.11 0 000 .05.57.57 0 00.11.16.4.4 0 00.15.1h.18l8.23.7a.56.56 0 00.43-.16zm3.74-13.84a.41.41 0 01.49.49l-1 4.19-1.12 4.51a.4.4 0 01-.68.19l-6.63-6.63a.41.41 0 01.19-.69l4.51-1.12zm-14.33 6.74l.74-.72a.82.82 0 011.16 0l6.89 6.89a.82.82 0 010 1.15l-.72.74a.82.82 0 01-1.17 0l-6.92-6.91a.82.82 0 01.02-1.15zm5 8.75l-5-.3a.39.39 0 01-.38-.38l-.26-5a.41.41 0 01.69-.31l5.31 5.31a.41.41 0 01-.31.68zm-2.34-11.46l.68-.67a.83.83 0 011.16 0l6.89 6.9a.81.81 0 010 1.15l-.66.69a.82.82 0 01-1.17 0l-6.92-6.91a.82.82 0 01.07-1.16z"/>
+        <path class="cls-4" d="M1501.87 155.31l-.91 7.4-7.37 4.78 8.61-3.14-.33-9.04zM1492.55 146l-7.39.91-4.79 7.37 3.15-8.61 9.03.33z"/>
+        </g>
+        <g>
+        <path class="cls-4" d="M1508.63 144.19l6.99.93 3.91-4.76-2.93 6.73-7.97-2.9zM1503.67 139.23l-.92-6.99 4.76-3.9-6.73 2.93 2.89 7.96z"/>
+        <path class="cls-3" d="M1511.1 134h2.75v7.72h-7.72V139a5 5 0 014.97-5z" transform="rotate(90 1509.995 137.875)"/>
+        <path class="cls-4" d="M1508.17 134.05l2.21-9.75-.6 9.82-1.61-.07zM1513.82 139.7l9.75-2.21-9.82.6.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-11">
+        <path class="cls-3" d="M1317.22 89.9l-3.61-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.9-17.5a.43.43 0 00-.25-.23l-10.63-3.61a.41.41 0 00-.37.06.4.4 0 00-.17.32l-.27 9a.39.39 0 00.12.31.18.18 0 00.07.05l1.67 1.06-.88 6a.41.41 0 00.12.35l3.92 4a.47.47 0 00.27.12l13.78.62.62 13.77a.39.39 0 00.11.27l4 3.93a.41.41 0 00.35.11l6-.88 1.06 1.67.06.08a.39.39 0 00.3.12l9-.27a.44.44 0 00.33-.18.44.44 0 00.03-.39zm-39.86-39.16l9.84 3.45 6.18 14.18a.41.41 0 01-.6.51l-15.59-10zM1282 70l-3.69-3.69.56-4.58a.41.41 0 01.62-.3l13.41 8.47a.41.41 0 01-.25.75zm18.7 18.7L1297 85l-.65-10.65a.41.41 0 01.76-.24l8.46 13.4a.42.42 0 01-.3.63zm7.41 1.1l-10-15.6a.41.41 0 01.51-.6l14.17 6.16 3.46 9.86z"/>
+        <g>
+        <path class="cls-3" d="M1288.09 88.48l.44-.44 2.46-2.52a.6.6 0 00.14-.26l2.56-11.35a.56.56 0 00-.64-.64l-11.35 2.56a.6.6 0 00-.26.14l-2.52 2.46-.44.44-2.9 2.84a.5.5 0 00-.16.43l.69 8.23a.53.53 0 000 .12v.06a.57.57 0 00.11.16.4.4 0 00.15.1h.06a.42.42 0 00.12 0l8.23.69a.52.52 0 00.43-.15zm3.74-13.85a.42.42 0 01.49.49l-1 4.19-1.12 4.51a.42.42 0 01-.69.2l-6.62-6.63a.41.41 0 01.19-.69l4.51-1.12zm-14.33 6.75l.74-.73a.83.83 0 011.16 0l6.89 6.9a.82.82 0 010 1.15l-.72.74a.84.84 0 01-1.18 0l-6.91-6.91a.82.82 0 01.02-1.15zm5 8.75l-5-.3a.42.42 0 01-.39-.38l-.25-5a.41.41 0 01.69-.31l5.3 5.3a.41.41 0 01-.3.69zm-2.34-11.46l.68-.67a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.67.68a.81.81 0 01-1.16 0l-6.92-6.92a.81.81 0 01.07-1.14z"/>
+        <path class="cls-4" d="M1293.74 82.58l-.91 7.39-7.38 4.79 8.61-3.15-.32-9.03zM1284.42 73.27l-7.39.91-4.79 7.37 3.15-8.61 9.03.33z"/>
+        </g>
+        <g>
+        <path class="cls-4" d="M1300.5 71.46l6.99.92 3.91-4.75-2.93 6.72-7.97-2.89zM1295.54 66.5l-.92-6.99 4.76-3.9-6.73 2.92 2.89 7.97z"/>
+        <path class="cls-3" d="M1303 61.28h2.75V69H1298v-2.75a5 5 0 015-5z" transform="rotate(90 1301.86 65.14)"/>
+        <path class="cls-4" d="M1300.04 61.32l2.21-9.75-.61 9.82-1.6-.07zM1305.69 66.97l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+    <g class="beeImg beeImg-12">
+        <path class="cls-3" d="M1317.22 89.9l-3.61-10.63a.43.43 0 00-.23-.25l-17.5-7.9-7.9-17.5a.43.43 0 00-.25-.23l-10.63-3.61a.41.41 0 00-.37.06.4.4 0 00-.17.32l-.27 9a.39.39 0 00.12.31.18.18 0 00.07.05l1.67 1.06-.88 6a.41.41 0 00.12.35l3.92 4a.47.47 0 00.27.12l13.78.62.62 13.77a.39.39 0 00.11.27l4 3.93a.41.41 0 00.35.11l6-.88 1.06 1.67.06.08a.39.39 0 00.3.12l9-.27a.44.44 0 00.33-.18.44.44 0 00.03-.39zm-39.86-39.16l9.84 3.45 6.18 14.18a.41.41 0 01-.6.51l-15.59-10zM1282 70l-3.69-3.69.56-4.58a.41.41 0 01.62-.3l13.41 8.47a.41.41 0 01-.25.75zm18.7 18.7L1297 85l-.65-10.65a.41.41 0 01.76-.24l8.46 13.4a.42.42 0 01-.3.63zm7.41 1.1l-10-15.6a.41.41 0 01.51-.6l14.17 6.16 3.46 9.86z"/>
+        <g>
+        <path class="cls-3" d="M1288.09 88.48l.44-.44 2.46-2.52a.6.6 0 00.14-.26l2.56-11.35a.56.56 0 00-.64-.64l-11.35 2.56a.6.6 0 00-.26.14l-2.52 2.46-.44.44-2.9 2.84a.5.5 0 00-.16.43l.69 8.23a.53.53 0 000 .12v.06a.57.57 0 00.11.16.4.4 0 00.15.1h.06a.42.42 0 00.12 0l8.23.69a.52.52 0 00.43-.15zm3.74-13.85a.42.42 0 01.49.49l-1 4.19-1.12 4.51a.42.42 0 01-.69.2l-6.62-6.63a.41.41 0 01.19-.69l4.51-1.12zm-14.33 6.75l.74-.73a.83.83 0 011.16 0l6.89 6.9a.82.82 0 010 1.15l-.72.74a.84.84 0 01-1.18 0l-6.91-6.91a.82.82 0 01.02-1.15zm5 8.75l-5-.3a.42.42 0 01-.39-.38l-.25-5a.41.41 0 01.69-.31l5.3 5.3a.41.41 0 01-.3.69zm-2.34-11.46l.68-.67a.82.82 0 011.15 0l6.9 6.9a.82.82 0 010 1.15l-.67.68a.81.81 0 01-1.16 0l-6.92-6.92a.81.81 0 01.07-1.14z"/>
+        <path class="cls-4" d="M1293.74 82.58l-.91 7.39-7.38 4.79 8.61-3.15-.32-9.03zM1284.42 73.27l-7.39.91-4.79 7.37 3.15-8.61 9.03.33z"/>
+        </g>
+        <g>
+        <path class="cls-4" d="M1300.5 71.46l6.99.92 3.91-4.75-2.93 6.72-7.97-2.89zM1295.54 66.5l-.92-6.99 4.76-3.9-6.73 2.92 2.89 7.97z"/>
+        <path class="cls-3" d="M1303 61.28h2.75V69H1298v-2.75a5 5 0 015-5z" transform="rotate(90 1301.86 65.14)"/>
+        <path class="cls-4" d="M1300.04 61.32l2.21-9.75-.61 9.82-1.6-.07zM1305.69 66.97l9.75-2.22-9.82.61.07 1.61z"/>
+        </g>
+    </g>
+
+    
+
+</svg>
